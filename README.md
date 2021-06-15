@@ -6,10 +6,7 @@ Um exemplo de artefato é o Design System do Figma, que trata-se de um artefato 
 
 Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Campo/03 Avaliação de Usabilidade e Acessibilidade/04 Arquitetura da Informação/05 Design de Interação/06 Padrões de Design de Interfaces/07 Prototipação e Design Visual).
 
-<details>
-  <summary>
-    <b>01 Time</b>
-  </summary>
+<details><summary>01 Time</summary>
   <p>
 
     
