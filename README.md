@@ -6,7 +6,7 @@ Um exemplo de artefato é o Design System do Figma, que trata-se de um artefato 
 
 Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Campo/03 Avaliação de Usabilidade e Acessibilidade/04 Arquitetura da Informação/05 Design de Interação/06 Padrões de Design de Interfaces/07 Prototipação e Design Visual).
 
-<details>
+<details style="margin-bottom:20px;">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
@@ -48,7 +48,8 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     </ul>
   </div>
 </details>
-<details>
+
+<details style="margin-bottom:20px;">
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -73,7 +74,8 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </blockquote>
   </div>
 </details>
-<details>
+
+<details style="margin-bottom:20px;">
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -99,7 +101,8 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </blockquote>
   </div>
 </details>
-<details>
+
+<details style="margin-bottom:20px;">
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -117,7 +120,8 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </p> 
   </div>
 </details>
-<details>
+
+<details style="margin-bottom:20px;">
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -144,7 +148,8 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     <p>Será transcrito como uma página nesse site, até lá acesse o documento <a href="https://docs.google.com/document/d/1VAF0CPGotzF2t8Jl6v3xIo6w8ZL6X8oz3253STs8_eE/edit?usp=sharing" target="_blank">Header e Menus</a>.</p> 
   </div>
 </details>
-<details>
+
+<details style="margin-bottom:20px;">
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -162,7 +167,8 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </p> 
   </div>
 </details>
-<details>
+
+<details style="margin-bottom:20px;">
   <summary style="
     background-color: #ddd;
     padding: 10px;
