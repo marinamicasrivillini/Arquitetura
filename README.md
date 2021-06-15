@@ -48,7 +48,9 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     </ul>
   </div>
 </details>
+
 <details>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -73,7 +75,9 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </blockquote>
   </div>
 </details>
+
 <details>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -99,7 +103,9 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </blockquote>
   </div>
 </details>
+
 <details>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -117,7 +123,9 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </p> 
   </div>
 </details>
+
 <details>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -144,7 +152,9 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     <p>Será transcrito como uma página nesse site, até lá acesse o documento <a href="https://docs.google.com/document/d/1VAF0CPGotzF2t8Jl6v3xIo6w8ZL6X8oz3253STs8_eE/edit?usp=sharing" target="_blank">Header e Menus</a>.</p> 
   </div>
 </details>
+
 <details>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -162,7 +172,9 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </p> 
   </div>
 </details>
+
 <details>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -202,6 +214,6 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
       <li><a href="https://storybook.js.org/" target="_blank">Storybook</a> - é uma ferramenta de código aberto para a construção de componentes de interface do usuário e páginas de forma isolada. Ele agiliza o desenvolvimento, teste e documentação da IU.</li>
       <li><a href="https://uxplanet.org/marie-kondoing-for-ux-designers-organizing-my-figma-files-d1e4be32dd67" target="_blank">Capa protótipo Figma</a> - Template de arquivo do Figma com capa e informações envolvidas na tarefa (fluxos das tarefas dos usuários, stakeholders envolvidos, versões do protótipo, etc...) (artefato dinâmico de alto nível).</li>
       <li>Template de arquivo do Figma contendo todos os modelos de visualização das páginas do sistema.</li>
-    <ul>
+    </ul>
   </div>
 </details>
