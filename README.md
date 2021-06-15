@@ -48,7 +48,6 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     </ul>
   </div>
 </details>
-
 <details>
   <summary style="
     background-color: #ddd;
@@ -74,7 +73,6 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </blockquote>
   </div>
 </details>
-
 <details>
   <summary style="
     background-color: #ddd;
@@ -101,7 +99,6 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </blockquote>
   </div>
 </details>
-
 <details>
   <summary style="
     background-color: #ddd;
@@ -120,7 +117,6 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </p> 
   </div>
 </details>
-
 <details>
   <summary style="
     background-color: #ddd;
@@ -148,7 +144,6 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     <p>Será transcrito como uma página nesse site, até lá acesse o documento <a href="https://docs.google.com/document/d/1VAF0CPGotzF2t8Jl6v3xIo6w8ZL6X8oz3253STs8_eE/edit?usp=sharing" target="_blank">Header e Menus</a>.</p> 
   </div>
 </details>
-
 <details>
   <summary style="
     background-color: #ddd;
@@ -167,7 +162,6 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     </p> 
   </div>
 </details>
-
 <details>
   <summary style="
     background-color: #ddd;
