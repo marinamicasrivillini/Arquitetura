@@ -11,7 +11,9 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     01 Time
   </summary>
   <p>
-
+    
+```
+    
   * **Backlog no Trello** - Utilizado para viabilizar o nosso roadmap (linkar as tarefas criadas a cada uma das ideias de criação de artefatos). Veja nosso [Backlog no Trello](https://trello.com/b/OEbo1AKb/kanban) é necessário ser convidado para visualizar.
 
   * **Repositório e site de arquitetura de Design** - Utilizado para listar atividades relacionadas ao design. Seu acesso pode ser de dois modos:
@@ -28,7 +30,9 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     * Mapa de Stakeholders;
     * Mapa de habilidades;
     * Acompanhamento de Artefatos - (semelhante ao [Acompanhamento Design System](https://docs.google.com/spreadsheets/d/1gk7MLzLXZYl6UM0NvgXuQad3iIogA35P4kTc4MVe6mM/edit?usp=sharing)).
-
+    
+```
+    
   </p>
 </details>
 
