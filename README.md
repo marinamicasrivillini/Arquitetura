@@ -40,10 +40,11 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     <p><b>Padrões para elaboração de documentações</b></p>
     <p>Será transcrito como uma página nesse site, até lá acesse <a href="https://docs.google.com/document/d/1SG369Vi4O3rwt9LK5uXvZKjzhzVMTOff2atJsqh2KJw/edit?usp=sharing" target="_blank">Padrões para elaboração de documentações</a>.</p> 
     <hr>
-    <ul><b style="margin-left:-30px">Artefatos futuros:</b>
+    <b>Artefatos futuros:</b>
+    <ul>
       <li>Mapa de Stakeholders</li>
       <li>Mapa de habilidades</li>
-      <li>Acompanhamento de Artefatos - (semelhante ao <a href="https://docs.google.com/spreadsheets/d/1gk7MLzLXZYl6UM0NvgXuQad3iIogA35P4kTc4MVe6mM/edit?usp=sharing" target="_blank">Acompanhamento Design System</a></li>
+      <li>Acompanhamento de Artefatos - semelhante ao <a href="https://docs.google.com/spreadsheets/d/1gk7MLzLXZYl6UM0NvgXuQad3iIogA35P4kTc4MVe6mM/edit?usp=sharing" target="_blank">Acompanhamento Design System</a></li>
     </ul>
   </div>
 </details>
@@ -202,7 +203,8 @@ De acordo com a <a href="https://brasil.uxdesign.cc/a-diferen%C3%A7a-entre-perso
     <p><u>Skeleton Screens</u></p>
     <p>É uma “tela de esqueleto”, uma interface de usuário com espaço reservado que se parece com um wireframe da página de carregamento, sem conteúdo, que é animada por um clarão de luz se movendo através dela e ao final da transição é os dados são carregados na página. Veja mais informações na página <a href="Skeleton%20Screens">Skeleton Screens</a>.</p> 
     <hr>
-    <ul><b style="margin-left:-30px">Artefatos futuros:</b>
+    <b>Artefatos futuros:</b>
+    <ul>
       <li><a href="https://storybook.js.org/" target="_blank">Storybook</a> - é uma ferramenta de código aberto para a construção de componentes de interface do usuário e páginas de forma isolada. Ele agiliza o desenvolvimento, teste e documentação da IU.</li>
       <li><a href="https://uxplanet.org/marie-kondoing-for-ux-designers-organizing-my-figma-files-d1e4be32dd67" target="_blank">Capa protótipo Figma</a> - Template de arquivo do Figma com capa e informações envolvidas na tarefa (fluxos das tarefas dos usuários, stakeholders envolvidos, versões do protótipo, etc...) (artefato dinâmico de alto nível).</li>
       <li>Template de arquivo do Figma contendo todos os modelos de visualização das páginas do sistema.</li>
