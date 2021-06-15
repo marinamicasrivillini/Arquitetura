@@ -8,9 +8,9 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
 
 <details>
   <summary>
-    <b>01 Time</b>
+    01 Time
   </summary>
-  <div>
+  <p>
 
   * **Backlog no Trello** - Utilizado para viabilizar o nosso roadmap (linkar as tarefas criadas a cada uma das ideias de criação de artefatos). Veja nosso [Backlog no Trello](https://trello.com/b/OEbo1AKb/kanban) é necessário ser convidado para visualizar.
 
@@ -29,21 +29,13 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
     * Mapa de habilidades;
     * Acompanhamento de Artefatos - (semelhante ao [Acompanhamento Design System](https://docs.google.com/spreadsheets/d/1gk7MLzLXZYl6UM0NvgXuQad3iIogA35P4kTc4MVe6mM/edit?usp=sharing)).
 
-  </div>
+  </p>
 </details>
+
 
 ---
 
-<details>
-  <summary>
-    <b></b>
-  </summary>
-  <div>
 
-
-
-  </div>
-</details>
 
 
 
