@@ -8,7 +8,6 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
 
 <details>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-  
   <summary style="
     background-color: #ddd;
     padding: 10px;
@@ -45,7 +44,7 @@ Abaixo cada artefato é listado dentro das 7 áreas (01 Time/02 Pesquisa de Camp
       <li>Mapa de Stakeholders</li>
       <li>Mapa de habilidades</li>
       <li>Acompanhamento de Artefatos - (semelhante ao <a href="https://docs.google.com/spreadsheets/d/1gk7MLzLXZYl6UM0NvgXuQad3iIogA35P4kTc4MVe6mM/edit?usp=sharing" target="_blank">Acompanhamento Design System</a></li>
-    <ul>
+    </ul>
   </div>
 </details>
 
