@@ -156,7 +156,7 @@ Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
     <p>Nesse vídeo é explicado como nosso conteúdo de design está organizado.</p>
     <p>Caso não visualize o vídeo abaixo, acessar por aqui o <a href="https://drive.google.com/file/d/1vM1Omg5BXmNAhgS5SRJqy9A5GbxUXlk6/view?usp=sharing" target="_blank">Vídeo explicativo</a>.</p>
     <video controls width="100%" height="400" controls>
-        <source src="Design/designOps.mp4" type="video/mp4">
+        <source src="designOps.mp4" type="video/mp4">
         <object>
             <embed src="Template para Documentação.mp4" type="application/x-shockwave-flash" 
             allowfullscreen="false" allowscriptaccess="always">  		
