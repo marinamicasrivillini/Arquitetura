@@ -20,8 +20,8 @@ Futuramente as cerimônias serão listadas dentro das 7 áreas (01 Time/02 Pesqu
     font-weight: bold;
     border-radius: 4px 4px 0 0;
     cursor:pointer;"
-    title="Clique aqui para visualizar as ferramentas do Time">
-    <i class="fas fa-users" style="color: #2879d0;margin-right:10px;"></i> Sem categórias no momento</summary>
+    title="Clique aqui para visualizar explicação">
+     Sem categorias no momento</summary>
   <div style="
     border: 1px solid #ddd;
     border-radius: 0 0 4px 4px;
