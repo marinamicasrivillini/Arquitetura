@@ -1,4 +1,10 @@
-# 02 Base de Conhecimento e Treinamentos
+![Logo da Nasajon](../logoNasajon.png "Logo da Nasajon")
+# Processos e Documentos de Arquitetura
+Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
+
+---
+
+## 02 Base de Conhecimento e Treinamentos
 A Base de Conhecimento trata-se de conteúdos advindos de artigos e vídeos para obtermos conhecimentos técnicos aplicados à área de design.
 
 Treinamentos é a listagem de cursos para que o designer possa obter conhecimentos em sua área, neste se o curso não for gratuito o processo de adquirí-lo é outro. Caso seja algum curso do Alura como listado na parte de treinamentos desta página deve-se sinalizar na sala do *Cursos Alura* do Chat Google para entrar na fila.

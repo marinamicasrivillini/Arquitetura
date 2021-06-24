@@ -1,4 +1,10 @@
-# 04 Processos
+![Logo da Nasajon](../logoNasajon.png "Logo da Nasajon")
+# Processos e Documentos de Arquitetura
+Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
+
+---
+
+## 04 Processos
 É o cotidiano de um UX/UI designer em suas diversas atividades. 
 
 Cada processo abaixo é listado dentro das 7 áreas (01 Time/02 Pesquisa de Campo/03 Avaliação de Usabilidade e Acessibilidade/04 Arquitetura da Informação/05 Design de Interação/06 Padrões de Design de Interfaces/07 Prototipação e Design Visual).

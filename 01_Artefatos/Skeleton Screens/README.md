@@ -1,5 +1,11 @@
-<!--- Inserir título da especificação do componente a ser documentado -->
-# Skeleton screens
+![Logo da Nasajon](../../logoNasajon.png "Logo da Nasajon")
+# Processos e Documentos de Arquitetura
+Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
+
+---
+
+## Skeleton screens <!--- Inserir título da especificação do componente a ser documentado -->
+
 <!--- Descrever de forma resumida o que é esse componente e quando haver limitações informar. Além de inserir uma imagem dele em seu uso mais recorrente. -->
 De acordo com os padrões de design advindos do site [Nielsen Norman Group (NN/g)](https://www.nngroup.com/articles/animation-purpose-ux/ "site Nielsen Norman Group") pertecente ao Jakob Nielsen e Don Norman, o coneito de "*Skeleton screens*" é:
 > (a placeholder UI that looks like a wireframe of the loading page, with no content) that is animated by a light glare moving across it.

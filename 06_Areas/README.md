@@ -1,4 +1,10 @@
-# 06 Áreas e suas competências
+![Logo da Nasajon](../logoNasajon.png "Logo da Nasajon")
+# Processos e Documentos de Arquitetura
+Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
+
+---
+
+## 01 Áreas e suas competências
 Para cada um dos assuntos abaixo há 7 áreas e suas competências afim de categorizar de forma mais organizada cada assunto:
   * 01 Áreas e suas competências
   * 02 Base de Conhecimento e Treinamentos

@@ -1,4 +1,10 @@
-# 01 Artefatos
+![Logo da Nasajon](../logoNasajon.png "Logo da Nasajon")
+# Processos e Documentos de Arquitetura
+Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
+
+---
+
+## 06 Artefatos
 Artefatos auxiliam o time durante a execução das tarefas, atividades e/ou problemas recorrentes. Tem como objetivo atender classes de problemas, agilizar e padronizar entregas. Podem ser templates e/ou materiais de apoio para execução das tarefas e, na maior parte das vezes, a própria tarefa terá como o produto final um artefato.
 
 Os artefatos ajudam a reduzir o esforço cognitivo do time durante a execução das tarefas e a elevar a nossa performance. Ajudam também a melhorar o entendimento de nossas entregas por outros membros do time e por nossos stakeholders.
