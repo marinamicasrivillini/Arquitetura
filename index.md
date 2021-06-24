@@ -158,7 +158,7 @@ Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
     </ol>
     <h3>Vídeo explicativo sobre a organização dos conteúdos da equipe DesignOps</h3>
     <p>Nesse vídeo é explicado como nosso conteúdo de design está organizado.</p>
-    <p>Caso não visualize o vídeo abaixo, acessar por aqui o <a href="https://drive.google.com/file/d/1vM1Omg5BXmNAhgS5SRJqy9A5GbxUXlk6/view?usp=sharing" target="_blank">Vídeo explicativo</a>.</p>
+    <p>Caso não visualize o vídeo abaixo, acessar por aqui o <a href="https://drive.google.com/file/d/1HNnMvD16-cnE8JCSZVd2plO15C7Yl2_6/view?usp=sharing" target="_blank">Vídeo explicativo</a>.</p>
     <video controls width="100%" height="400" controls>
         <source src="designOps.mp4" type="video/mp4">
         <object>
