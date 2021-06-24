@@ -28,6 +28,10 @@ Ou seja, os 6 (seis) assuntos listados acima fazem parte do cotidiano de um UX/U
 Seus números podem servir futuramente como identificadores, como por exemplo ao se falar de **"0106"** estaria fazendo referência do assunto **01 Áreas e suas competências** sobre a área de **06 Padrões de Design de Interfaces**.
 
 <details style="margin-bottom:20px;">
+<style>.markdown-body>*:first-child {
+    margin-top: 0 !important;
+    display: none;
+}</style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;

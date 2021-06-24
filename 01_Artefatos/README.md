@@ -19,6 +19,10 @@ Exemplos de artefatos dentro das 7 áreas:
 - 07 **Prototipação e Design Visual**: Design System (artefato dinâmico de alto nível)
 
 <details style="margin-bottom:20px;">
+<style>.markdown-body>*:first-child {
+    margin-top: 0 !important;
+    display: none;
+}</style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;

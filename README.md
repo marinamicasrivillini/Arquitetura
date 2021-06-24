@@ -5,6 +5,10 @@ Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
 ---
 
 <details style="margin-bottom:20px;">
+<style>.markdown-body>*:first-child {
+    margin-top: 0 !important;
+    display: none;
+}</style>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 <summary style="
     background-color: #ddd;
@@ -154,9 +158,9 @@ Documentação de auxílio ao desenvolvimento de software da Nasajon Sistemas.
     </ol>
     <h3>Vídeo explicativo sobre a organização dos conteúdos da equipe DesignOps</h3>
     <p>Nesse vídeo é explicado como nosso conteúdo de design está organizado.</p>
-    <p>Caso não visualize o vídeo abaixo, acessar por aqui o <a href="https://drive.google.com/file/d/1HNnMvD16-cnE8JCSZVd2plO15C7Yl2_6/view?usp=sharing" target="_blank">Vídeo explicativo</a>.</p>
+    <p>Caso não visualize o vídeo abaixo, acessar por aqui o <a href="https://drive.google.com/file/d/1vM1Omg5BXmNAhgS5SRJqy9A5GbxUXlk6/view?usp=sharing" target="_blank">Vídeo explicativo</a>.</p>
     <video controls width="100%" height="400" controls>
-        <source src="designOps.mp4" type="video/mp4">
+        <source src="Design/designOps.mp4" type="video/mp4">
         <object>
             <embed src="Template para Documentação.mp4" type="application/x-shockwave-flash" 
             allowfullscreen="false" allowscriptaccess="always">  		

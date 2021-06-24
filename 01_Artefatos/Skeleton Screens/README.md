@@ -13,6 +13,10 @@ Que conforme a tradução do Google se refere a uma:
 > “tela de esqueleto” (uma interface de usuário de espaço reservado que se parece com um wireframe da página de carregamento, sem conteúdo) que é animada por um clarão de luz se movendo através dela.
 
 <details style="margin-bottom:20px;">
+<style>.markdown-body>*:first-child {
+    margin-top: 0 !important;
+    display: none;
+}</style>
   <!--- Inserir imagem do componente a ser documentado -->
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="

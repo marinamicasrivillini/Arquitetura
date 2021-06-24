@@ -10,6 +10,10 @@ As ferramentas são recursos internos da Nasajon para que possamos realizar noss
 A seguir cada ferramenta e recursos são listados dentro das 7 áreas (01 Time/02 Pesquisa de Campo/03 Avaliação de Usabilidade e Acessibilidade/04 Arquitetura da Informação/05 Design de Interação/06 Padrões de Design de Interfaces/07 Prototipação e Design Visual).
 ## FERRAMENTAS
 <details style="margin-bottom:20px;">
+<style>.markdown-body>*:first-child {
+    margin-top: 0 !important;
+    display: none;
+}</style>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
   <summary style="
     background-color: #ddd;
